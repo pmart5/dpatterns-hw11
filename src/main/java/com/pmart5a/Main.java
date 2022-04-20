@@ -1,3 +1,5 @@
+package com.pmart5a;
+
 import com.pmart5a.myclass.*;
 
 public class Main {
